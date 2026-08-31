@@ -1,0 +1,14 @@
+torch
+transformers
+datasets
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tqdm
+tensorboard
+onnx
+onnxruntime
+wordcloud
+onnxscript

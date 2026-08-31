@@ -1,0 +1,17 @@
+SentimentScope Evaluation Metrics - CUSTOM
+============================================================
+Accuracy:  80.0889%
+Precision: 77.2431%
+Recall:    84.8566%
+F1-Score:  80.8711%
+============================================================
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.83      0.75      0.79      1134
+    Positive       0.77      0.85      0.81      1116
+
+    accuracy                           0.80      2250
+   macro avg       0.80      0.80      0.80      2250
+weighted avg       0.80      0.80      0.80      2250

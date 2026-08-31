@@ -1,0 +1,8 @@
+SentimentScope - IMDB Training Set Statistics
+=============================================
+Total reviews in training set: 700
+Class 0 (Negative) reviews: 357 (51.0%)
+Class 1 (Positive) reviews: 343 (49.0%)
+Average review length: 267.39 tokens
+Median review length: 209.0 tokens
+Max review length: 1283 tokens
